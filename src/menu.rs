@@ -21,5 +21,6 @@ pub fn menu() {
 Please choose the desired operation by entering the corresponding number.
 
 To exit the program at any time, simply press 'Ctrl + C' or 'x'.
+To back to upper menu, simply press 'x'.
 {}", color::Fg(color::Yellow), color::Fg(color::Reset));
 }
