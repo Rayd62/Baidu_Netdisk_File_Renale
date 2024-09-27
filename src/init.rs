@@ -1,6 +1,6 @@
 // baidu platform config
-const APP_KEY: &str = "gG8AVE3xPl4OVMNmcO7BWUDYOGG4A7MA";
-const SECRET_KEY: &str = "C1yp2s3dC1ykGq959lamxG3FtG6GPszg";
+const APP_KEY: &str = "*"; // change it to yourself
+const SECRET_KEY: &str = "*";  // change it to yourself
 pub const USER_FILE: &str = "./user.txt";
 const AUTH_BASE_URL: &str = "https://openapi.baidu.com/oauth/2.0/";
 const USER_INFO_QUERY_URL: &str = "https://pan.baidu.com/rest/2.0/xpan/nas?method=uinfo";
